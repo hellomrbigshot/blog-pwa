@@ -39,7 +39,7 @@
     "@vue/cli-service": "^3.5.0",
     "typescript": "^3.2.1",
     "vue-template-compiler": "^2.5.21",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "s": "^0.1.1",
     "sass-loader": "^7.1.0",
     "vue-skeleton-webpack-plugin": "^1.2.2"
